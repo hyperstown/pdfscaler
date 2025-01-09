@@ -9,7 +9,7 @@ A simple program that let's you resize your PDFs to desired format (eg. A4).
     - For MacOS `~/bin/`
 - Done
 
-*Binary for Linux x86-64 can be found in Releases, for Windows and MacOS you have to [build it yourself](#building).*
+*Binary for Linux x86-64 can be found in [Releases](https://github.com/hyperstown/pdfscaler/releases), for Windows and MacOS you have to [build it yourself](#building).*
 
 ### Usage:
 
